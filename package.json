@@ -1,0 +1,25 @@
+{
+    "name": "starter-pack",
+    "displayName": "formulahendry.auto-rename-tag",
+    "description": "",
+    "publisher": "Vaclav Prochazka",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/username/extension-repo"
+    },
+    "extensionPack": [
+        "formulahendry.auto-rename-tag",
+        "ms-azuretools.vscode-docker",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "streetsidesoftware.code-spell-checker",
+        "dbaeumer.vscode-eslint",
+        "shardulm94.trailing-spaces"
+    ]
+}
