@@ -1,16 +1,29 @@
-# README
+# Starter-pack
 
-## This is the README for your extension pack "formulahendry-auto-rename-tag"
+Starter packs for making VsCode great!
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## What's inside?
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### Base
 
-## For more information
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Bracket pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [Spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
+- [Yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Javascript
 
-**Enjoy!**
+- [Javascript syntax](https://marketplace.visualstudio.com/items?itemName=ms-vscode.typescript-javascript-grammar)
+
+### Python
+
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+### Vue
+
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)

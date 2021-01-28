@@ -2,8 +2,8 @@
     "name": "starter-pack",
     "displayName": "starter-pack",
     "description": "Make VsCode great again",
-    "publisher": "Vaclav Prochazka",
-    "version": "0.0.1",
+    "publisher": "VaclavProchazka",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -21,6 +21,12 @@
         "CoenraadS.bracket-pair-colorizer-2",
         "streetsidesoftware.code-spell-checker",
         "dbaeumer.vscode-eslint",
-        "shardulm94.trailing-spaces"
+        "shardulm94.trailing-spaces",
+        "redhat.vscode-yaml",
+        "ms-python.python",
+        "ms-vscode.typescript-javascript-grammar",
+        "esbenp.prettier-vscode",
+        "octref.vetur",
+        "mechatroner.rainbow-csv"
     ]
 }
