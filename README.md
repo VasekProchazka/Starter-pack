@@ -17,6 +17,7 @@ Starter packs for making VsCode great!
 - [Csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 - [Project manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- [Editor config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 ### Javascript
 

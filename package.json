@@ -1,34 +1,35 @@
 {
-    "name": "starter-pack",
-    "displayName": "starter-pack",
-    "description": "Everthing your VsCode needs",
-    "publisher": "VaclavProchazka",
-    "version": "1.0.1",
-    "engines": {
-        "vscode": "^1.52.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/VasekProchazka/Starter-pack"
-    },
-    "icon": "icon.png",
-    "extensionPack": [
-        "formulahendry.auto-rename-tag",
-        "ms-azuretools.vscode-docker",
-        "CoenraadS.bracket-pair-colorizer-2",
-        "streetsidesoftware.code-spell-checker",
-        "dbaeumer.vscode-eslint",
-        "shardulm94.trailing-spaces",
-        "redhat.vscode-yaml",
-        "ms-python.python",
-        "ms-vscode.typescript-javascript-grammar",
-        "esbenp.prettier-vscode",
-        "octref.vetur",
-        "mechatroner.rainbow-csv",
-        "alefragnani.project-manager",
-        "TabNine.tabnine-vscode"
-    ]
+	"name": "starter-pack",
+	"displayName": "starter-pack",
+	"description": "Everthing your VsCode needs",
+	"publisher": "VaclavProchazka",
+	"version": "1.0.2",
+	"engines": {
+		"vscode": "^1.52.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VasekProchazka/Starter-pack"
+	},
+	"icon": "icon.png",
+	"extensionPack": [
+		"formulahendry.auto-rename-tag",
+		"ms-azuretools.vscode-docker",
+		"CoenraadS.bracket-pair-colorizer-2",
+		"streetsidesoftware.code-spell-checker",
+		"dbaeumer.vscode-eslint",
+		"shardulm94.trailing-spaces",
+		"redhat.vscode-yaml",
+		"ms-python.python",
+		"ms-vscode.typescript-javascript-grammar",
+		"esbenp.prettier-vscode",
+		"octref.vetur",
+		"mechatroner.rainbow-csv",
+		"alefragnani.project-manager",
+		"TabNine.tabnine-vscode",
+		"EditorConfig.EditorConfig"
+	]
 }
