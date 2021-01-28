@@ -1,7 +1,7 @@
 {
     "name": "starter-pack",
-    "displayName": "formulahendry.auto-rename-tag",
-    "description": "",
+    "displayName": "starter-pack",
+    "description": "Make VsCode great again",
     "publisher": "Vaclav Prochazka",
     "version": "0.0.1",
     "engines": {
@@ -12,8 +12,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/username/extension-repo"
+        "url": "https://github.com/VasekProchazka/Starter-pack"
     },
+    "icon": "icon.png",
     "extensionPack": [
         "formulahendry.auto-rename-tag",
         "ms-azuretools.vscode-docker",
