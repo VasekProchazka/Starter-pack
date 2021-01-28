@@ -1,9 +1,9 @@
 {
     "name": "starter-pack",
     "displayName": "starter-pack",
-    "description": "Make VsCode great again",
+    "description": "Everthing your VsCode needs",
     "publisher": "VaclavProchazka",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -27,6 +27,8 @@
         "ms-vscode.typescript-javascript-grammar",
         "esbenp.prettier-vscode",
         "octref.vetur",
-        "mechatroner.rainbow-csv"
+        "mechatroner.rainbow-csv",
+        "alefragnani.project-manager",
+        "TabNine.tabnine-vscode"
     ]
 }

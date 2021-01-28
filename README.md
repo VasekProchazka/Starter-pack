@@ -15,6 +15,8 @@ Starter packs for making VsCode great!
 - [Yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+- [Project manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
 ### Javascript
 
